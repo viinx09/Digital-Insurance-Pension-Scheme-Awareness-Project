@@ -1,0 +1,8 @@
+{
+  "name": "Remix Digital Insurance \u0026 Pension Scheme Awareness Tool",
+  "description": "An interactive 3D civic financial awareness platform helping Indian citizens, farmers, street vendors, and unorganized-sector workers discover, compare, and check eligibility for government and private insurance and pension schemes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
